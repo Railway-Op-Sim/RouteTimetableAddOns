@@ -18,4 +18,4 @@ In addition, it is recommended to include:
 
 * Create new folder within repository `ChilternRailways_Krizar`.
 * Create folder for timetable `MonFri_0600_1200_2020_krizar`.
-* Add files: `ChilternRailways_MonFri_0600_1200.ttb`, `ChilternRailways_MonFri_0600_1200.ttb` and `README`.
+* Add files: `ChilternRailways_MonFri_0600_1200.ttb`, `ChilternRailways_MonFri_0600_1200.ssn` and `README`.
