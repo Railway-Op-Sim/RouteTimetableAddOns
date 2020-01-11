@@ -4,7 +4,7 @@ A repository containing any timetables under development for existing routes. Th
 # Submitting a Timetable
 
 When submitting a timetable please create a new folder within this repository for the map you are contributing to (if one does not already exist), please ensure the filename is OS friendly (no spaces/special characters) and in the form `routename_author`.
-Within the directory create a new folder for your timetable of the form `day_time_season/month_year_yourusername` (see the example below). Not this name may of course vary depending on the scenario itself.
+Within the directory create a new folder for your timetable of the form `day_time_seasonandormonth_year_yourusername` (see the example below). Not this name may of course vary depending on the scenario itself.
 
 Your submission should include at minimum:
 * A program timetable file
