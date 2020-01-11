@@ -9,6 +9,7 @@ Within the directory create a new folder for your timetable of the form `day_tim
 Your submission should include at minimum:
 * A program timetable file
 * A session for the timetable with all routes set
+
 In addition, it is recommended to include:
 * A true life timetable (if available and not overly complex! e.g. London Underground would have many timetables so this would be an example of when not to include!)
 * A README giving the user instructions on how to operate the timetable.
